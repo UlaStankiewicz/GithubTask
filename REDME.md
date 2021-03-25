@@ -16,5 +16,5 @@ open the properties.properties file in src/test/resource/ and set the "driver" p
     
 4) There are two ways of running tests:
 
-    a) Run the RunTest class in src/test/java/ . This will run all the features and scenarios in project
-    b) go to src/test/resource/features directory. There you will find .feature files wich can be run independently as well as scenarios included in files.
+    - Run the RunTest class in src/test/java/ . This will run all the features and scenarios in project
+    - go to src/test/resource/features directory. There you will find .feature files wich can be run independently as well as scenarios included in files.
